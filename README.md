@@ -33,6 +33,6 @@ Importe as bibliotecas no "Google Colabs"
 <h3>Clonar projeto</h3>
 
 Clone o projeto
-![alt text](image.png)
+![Image](https://github.com/user-attachments/assets/5d26fc35-35b7-43ad-b3d6-1607ec1a70f0)
 
 Abra no Google Colabs.
